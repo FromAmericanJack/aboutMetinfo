@@ -1,2 +1,0 @@
-# aboutMetinfo
-Metainfo Code Analysis
