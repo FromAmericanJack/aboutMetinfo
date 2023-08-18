@@ -1,3 +1,5 @@
+Collecting user information through backdoor code auditing
+
 ## Version metinfo V7.8
 File install/index.php
 Position 81 rows -103 rows
