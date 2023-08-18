@@ -1,4 +1,7 @@
-## Version V6.1.2
+From:  https://github.com/FromAmericanJack/aboutMetinfo
+Collecting user information through backdoor code auditing
+
+## Metinfo Version V6.1.2
 
 File install/index.php
 Position 493 rows -504 rows
