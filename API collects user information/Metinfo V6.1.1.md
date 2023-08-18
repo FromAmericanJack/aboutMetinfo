@@ -1,4 +1,4 @@
-## Version V6.1.1
+## Version Metinfo V6.1.1
 File install/index.php
 Position 493 rows -504 rows
 Referencing in the target code section during installation http://api.metinfo.cn/record_install.php Send user URL, email, installation time, software type, website name, keywords, description, program version, PHP version, database version, browser information, agent information, and other data to the server pointed to by api.metinfo.cn through concatenation and query parameters
@@ -17,7 +17,7 @@ $spt .= '"></script>';
 echo $spt;
 ~~~
 
-## Version V6.1.1
+## Version Metinfo V6.1.1
 File app/system/admin/webset/webset.class.php
 Position 20-38 rows
 Referencing in the target code section when modifying website settings in the background http://api.metinfo.cn/record_install.php Send user website backend management path, administrator contact email, administrator contact phone number, website address, email address, installation time, software type, website name, keywords, description, program version, PHP version, database version, browser information, agent information, and other data to the server pointed to by api.metinfo.cn through concatenation query parameters
