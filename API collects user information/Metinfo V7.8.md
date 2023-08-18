@@ -1,7 +1,7 @@
 ## Version metinfo V7.8
 File install/index.php
 Position 81 rows -103 rows
-Referencing : a function curl use for send to api
+Referencing : a function curl use for send to api url
 ~~~
 public function curl_post($post, $timeout = 20)
     {
@@ -32,7 +32,7 @@ public function curl_post($post, $timeout = 20)
 File install/install_dmsql.php
 Position 373-381 rows
 
-File install/install_dmsql.php
+File install/install_mysql.php
 Position 368-377 rows
 
 Referencing in the target code section when modifying website settings in the background https://u.mituo.cn/api/metinfo/install
